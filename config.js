@@ -11,7 +11,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-['523316968621', 'DANIEL BOT ', true], 
+['525631709514', 'DANIEL BOT ', true], 
 ['523316968621', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
 ['5521989092076', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true]  
 ]
@@ -97,48 +97,48 @@ global.author = 'Buitre Bot'
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['523316968621', 'Buitre Dios 💻', 1], 
+['523316968621', 'DANIEL Dios 💻', 1], 
 ['523316968621', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['523316968621', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
 ['523316968621', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1],
 ['523316968621', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
-global.mail = '' //agrega tú correo
-global.desc = '' //Buitre BOT md ACTIVO!!
+global.mail = '' //donnovandanieln@gmail.com
+global.desc = '' //DANIEL BOT md ACTIVO!!
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.country = '' //agrega tú país ejemplo: 🇲🇽
 
 global.vs = '1.0.1'
 global.vsJB = '3.0'
 
-global.gt = 'Buitre Bot '
-global.yt = 'https://youtube.com/@iambuitre'
-global.yt2 = 'https://youtube.com/@iambuitre'
-global.ig = 'https://youtube.com/@iambuitre'
-global.md = 'https://github.com/Buitreofc/Buitre-BotLite-MD#readme'
-global.fb = 'https://www.facebook.com/profile.php?id=100091780073268'
+global.gt = 'DANIEL Bot '
+global.yt = 'https://instagram.com/daniel_shop05?igshid=MzRlODBiNWFlZA=='
+global.yt2 = 'https://instagram.com/daniel_shop05?igshid=MzRlODBiNWFlZA=='
+global.ig = 'https://instagram.com/daniel_shop05?igshid=MzRlODBiNWFlZA=='
+global.md = 'https://instagram.com/daniel_shop05?igshid=MzRlODBiNWFlZA=='
+global.fb = 'https://instagram.com/daniel_shop05?igshid=MzRlODBiNWFlZA=='
 
-global.nna = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Help
-global.nn = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 8 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 9 COL
-global.paypal = 'https://www.paypal.me/Buitre01'
-global.asistencia = 'http://Wa.me/523316968621' //Dudas? escríbeme...
+global.nn= 'https://chat.whatsapp.com/F4J0yWm4NN74Nbw8XvBL1W' //UPDATE GATABOT
+global.nna2 = 'https://chat.whatsapp.com/F4J0yWm4NN74Nbw8XvBL1W' //Help
+global.nn = 'https://chat.whatsapp.com/F4J0yWm4NN74Nbw8XvBL1W' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/F4J0yWm4NN74Nbw8XvBL1W' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/F4J0yWm4NN74Nbw8XvBL1W' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/F4J0yWm4NN74Nbw8XvBL1W' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/F4J0yWm4NN74Nbw8XvBL1W' //Grupo 5
+global.nnnttt2 = 'https://chat.whatsapp.com/F4J0yWm4NN74Nbw8XvBL1W' //Grupo 6 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/F4J0yWm4NN74Nbw8XvBL1W' //Grupo 7 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/F4J0yWm4NN74Nbw8XvBL1W' //Grupo 8 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/F4J0yWm4NN74Nbw8XvBL1W' //Grupo 9 COL
+global.paypal = 'paypal.me/5631709515'
+global.asistencia = 'http://Wa.me/5631709514' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'Buitre Bot Lite 🌻 : Buitre OFC '
-global.igfg = 'Buitre Bot Lite'
+global.wm = 'DANIEL Bot Lite 🌻 : DANIEL  OFC '
+global.igfg = 'DANIEL Bot Lite'
 //global.wait = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
 
